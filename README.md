@@ -6,6 +6,6 @@
 - After that enter your location, as soon as you enter your location you can see all the active organisations around you, their volunteers can come and get your food       really soon.
 - Then please confirm booking after that you can track the volunteer which will come and get your food. YAY you just made a contribution
 - It was never so simple to bring happiness in the life of others Right!!!!.
-- If you want to make a contribution , please visit FOOD FAIRY now .
+- If you want to make a contribution , please visit FOOD FAIRY now at https://food-fairy.netlify.app/
  
 
